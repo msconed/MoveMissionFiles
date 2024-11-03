@@ -1,0 +1,6 @@
+{
+    "source_dir": "C:\\Users\\Public\\Documents",
+    "target_dirs": ["C:\\Users\\Public\\Desktop\\Backup", "C:\\Users\\Public\\Downloads\\Backup"],
+    "exclude_files": ["README.md", "settings.json"]
+  }
+  
